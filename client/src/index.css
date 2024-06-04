@@ -117,8 +117,9 @@ p
 {
   height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  padding: 10px 50px;
   background-color: #005555;
 }
 

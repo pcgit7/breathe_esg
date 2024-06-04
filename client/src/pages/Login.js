@@ -28,6 +28,11 @@ const Login = () => {
 
   return (
     <div className="authentication">
+
+    <div className="authentication-info card p-3">
+            <h1 className="">BREATHE ESG</h1>
+    </div>
+      
       <div className="authentication-form card p-3">
         <h1 className="card-title">Welcome Back</h1>
 
